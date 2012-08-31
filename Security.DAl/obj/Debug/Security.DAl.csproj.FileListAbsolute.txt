@@ -1,0 +1,11 @@
+D:\Value\Value.Security\Security.DAl\bin\Debug\Security.DAl.dll
+D:\Value\Value.Security\Security.DAl\bin\Debug\Security.DAl.pdb
+D:\Value\Value.Security\Security.DAl\obj\Debug\ResolveAssemblyReference.cache
+D:\Value\Value.Security\Security.DAl\obj\Debug\Security.DAl.dll
+D:\Value\Value.Security\Security.DAl\obj\Debug\Security.DAl.pdb
+D:\Value\Value.Security\Security.DAl\bin\Debug\Security.Common.dll
+D:\Value\Value.Security\Security.DAl\bin\Debug\Security.Common.pdb
+D:\Value\Value.Security\Security.DAl\bin\Debug\ValueHelper.pdb
+D:\Value\Value.Security\Security.DAl\bin\Debug\ValueHelper.dll
+D:\Value\Value.Security\DynamicLink\Security.DAl.dll
+D:\Value\Value.Security\DynamicLink\Security.DAl.pdb

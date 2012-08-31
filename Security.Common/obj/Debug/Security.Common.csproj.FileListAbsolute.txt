@@ -1,0 +1,7 @@
+D:\Value\Value.Security\Security.Common\bin\Debug\Security.Common.dll
+D:\Value\Value.Security\Security.Common\bin\Debug\Security.Common.pdb
+D:\Value\Value.Security\Security.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Value\Value.Security\Security.Common\obj\Debug\Security.Common.dll
+D:\Value\Value.Security\Security.Common\obj\Debug\Security.Common.pdb
+D:\Value\Value.Security\DynamicLink\Security.Common.dll
+D:\Value\Value.Security\DynamicLink\Security.Common.pdb
