@@ -15,6 +15,7 @@ namespace Security.DAl
         {
             this.fileFullName = fileFullName;
             fileHelper = new FileHelper(fileFullName);
+            fileHelper.CreateFile(fileFullName);
         }
 
         public void AddAccount(String account, String password)

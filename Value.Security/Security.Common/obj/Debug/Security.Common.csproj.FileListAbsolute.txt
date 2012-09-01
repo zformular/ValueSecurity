@@ -5,3 +5,8 @@ D:\Value\Value.Security\Security.Common\obj\Debug\Security.Common.dll
 D:\Value\Value.Security\Security.Common\obj\Debug\Security.Common.pdb
 D:\Value\Value.Security\DynamicLink\Security.Common.dll
 D:\Value\Value.Security\DynamicLink\Security.Common.pdb
+E:\ValueProgram\Value.Security\Value.Security\DynamicLink\Security.Common.dll
+E:\ValueProgram\Value.Security\Value.Security\DynamicLink\Security.Common.pdb
+E:\ValueProgram\Value.Security\Value.Security\Security.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\ValueProgram\Value.Security\Value.Security\Security.Common\obj\Debug\Security.Common.dll
+E:\ValueProgram\Value.Security\Value.Security\Security.Common\obj\Debug\Security.Common.pdb

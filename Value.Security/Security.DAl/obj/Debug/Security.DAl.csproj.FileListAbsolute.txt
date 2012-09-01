@@ -9,3 +9,8 @@ D:\Value\Value.Security\Security.DAl\bin\Debug\ValueHelper.pdb
 D:\Value\Value.Security\Security.DAl\bin\Debug\ValueHelper.dll
 D:\Value\Value.Security\DynamicLink\Security.DAl.dll
 D:\Value\Value.Security\DynamicLink\Security.DAl.pdb
+E:\ValueProgram\Value.Security\Value.Security\DynamicLink\Security.DAl.dll
+E:\ValueProgram\Value.Security\Value.Security\DynamicLink\Security.DAl.pdb
+E:\ValueProgram\Value.Security\Value.Security\Security.DAl\obj\Debug\ResolveAssemblyReference.cache
+E:\ValueProgram\Value.Security\Value.Security\Security.DAl\obj\Debug\Security.DAl.dll
+E:\ValueProgram\Value.Security\Value.Security\Security.DAl\obj\Debug\Security.DAl.pdb

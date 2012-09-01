@@ -21,3 +21,16 @@ D:\Value\Value.Security\Security.FormUI\bin\Debug\ValueHelper.dll
 D:\Value\Value.Security\Security.FormUI\bin\Debug\ValueHelper.pdb
 D:\Value\Value.Security\DynamicLink\Security.FormUI.exe
 D:\Value\Value.Security\DynamicLink\Security.FormUI.pdb
+E:\ValueProgram\Value.Security\Value.Security\Security.FormUI\obj\x86\Debug\Security.FormUI.exe
+E:\ValueProgram\Value.Security\Value.Security\Security.FormUI\obj\x86\Debug\Security.FormUI.pdb
+E:\ValueProgram\Value.Security\Value.Security\DynamicLink\Security.FormUI.exe
+E:\ValueProgram\Value.Security\Value.Security\DynamicLink\Security.FormUI.pdb
+E:\ValueProgram\Value.Security\Value.Security\Security.FormUI\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ValueProgram\Value.Security\Value.Security\Security.FormUI\obj\x86\Debug\MainWindow.baml
+E:\ValueProgram\Value.Security\Value.Security\Security.FormUI\obj\x86\Debug\MainWindow.g.cs
+E:\ValueProgram\Value.Security\Value.Security\Security.FormUI\obj\x86\Debug\App.g.cs
+E:\ValueProgram\Value.Security\Value.Security\Security.FormUI\obj\x86\Debug\Security.FormUI_MarkupCompile.cache
+E:\ValueProgram\Value.Security\Value.Security\Security.FormUI\obj\x86\Debug\Security.FormUI.g.resources
+E:\ValueProgram\Value.Security\Value.Security\Security.FormUI\obj\x86\Debug\Security.FormUI.Properties.Resources.resources
+E:\ValueProgram\Value.Security\Value.Security\Security.FormUI\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ValueProgram\Value.Security\Value.Security\Security.FormUI\obj\x86\Debug\GenerateResource.write.1.tlog
