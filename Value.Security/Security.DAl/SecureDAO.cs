@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using ValueHelper;
+using System.IO;
 
 namespace Security.DAl
 {
@@ -15,7 +16,8 @@ namespace Security.DAl
         {
             this.fileFullName = fileFullName;
             fileHelper = new FileHelper(fileFullName);
-            fileHelper.CreateFile(fileFullName);
+            if (!File.Exists(fileFullName))
+                fileHelper.CreateFile(fileFullName);
         }
 
         public void AddAccount(String account, String password)
